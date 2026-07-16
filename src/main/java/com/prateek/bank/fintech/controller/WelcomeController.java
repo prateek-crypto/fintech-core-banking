@@ -1,6 +1,6 @@
-package com.prateek.bank.account.controller;
+package com.prateek.bank.fintech.controller;
 
-import com.prateek.bank.account.service.BankingService;
+import com.prateek.bank.fintech.service.BankingService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

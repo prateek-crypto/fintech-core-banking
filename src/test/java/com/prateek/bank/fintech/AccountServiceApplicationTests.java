@@ -1,4 +1,4 @@
-package com.prateek.bank.account;
+package com.prateek.bank.fintech;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

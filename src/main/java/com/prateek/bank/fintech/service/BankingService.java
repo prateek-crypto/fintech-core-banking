@@ -1,4 +1,4 @@
-package com.prateek.bank.account.service;
+package com.prateek.bank.fintech.service;
 
 import org.springframework.stereotype.Service;
 import jakarta.annotation.PostConstruct;
